@@ -12,8 +12,8 @@ public class Gato extends Felino {
     @Override
     public String toString() {
         return "gato{" +
-                "id='" + id + '\'' +
-                ", edad='" + edad + '\'' +
+                "id=" + id +
+                ", edad=" + edad +
                 ", nombre='" + nombre + '\'' +
                 ", dueño='" + dueño + '\'' +
                 '}';

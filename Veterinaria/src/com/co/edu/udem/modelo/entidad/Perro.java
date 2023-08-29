@@ -11,8 +11,8 @@ public class Perro extends Canino {
     @Override
     public String toString() {
         return "perro{" +
-                "id='" + id + '\'' +
-                ", edad='" + edad + '\'' +
+                "id=" + id +
+                ", edad=" + edad +
                 ", nombre='" + nombre + '\'' +
                 ", dueño='" + dueño + '\'' +
                 '}';
